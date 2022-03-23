@@ -11,9 +11,9 @@ analysis to help the store maximize revenue. More specifically, your task will a
 transactional data to identify the top 10 products likely to be purchased together.
 Given a dataset containing transactional data of products sold in the past week, you will
 be required to perform the following:
-● Define the business question
-● Perform data importation and loading
-● Perform data preprocessing
-● Find frequent itemsets
-● Generate association rules
-● Perform metric interpretation and provide recommendation
+- Define the business question
+- Perform data importation and loading
+- Perform data preprocessing
+- Find frequent itemsets
+- Generate association rules
+- Perform metric interpretation and provide recommendation
